@@ -1,3 +1,4 @@
+### Open PDF if the ipynb file doesn't show up. The ipynb works when you download and open locally. 
 # BERT Sentiment Analysis using Hugging Face
 
 This repository contains an end-to-end implementation of sentiment analysis using a pre-trained BERT model fine-tuned with the Hugging Face Transformers library. The project demonstrates a complete NLP workflow, starting from exploratory data analysis to model training, evaluation, and saving the trained model for reuse.
